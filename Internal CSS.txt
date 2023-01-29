@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  h1 {
+       text-align: center;
+       color: gray;
+      }
+   h2 {
+       text-align: center;
+       color: black;
+       }
+    p {
+       text-align: center;
+       color: orange;
+      }
+ 
+</style>
+</head>
+<body>
+
+<h1>Hello</h1>
+<h2>Hey</h2>
+<p>How Are You</p>
+
+</body>
+</html>
